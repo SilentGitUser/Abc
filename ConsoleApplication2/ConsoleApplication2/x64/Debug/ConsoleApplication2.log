@@ -1,0 +1,3 @@
+﻿  ArrayTask1.cpp
+c:\users\anton\source\repos\abc\consoleapplication2\consoleapplication2\arraytask1.cpp(34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication2.vcxproj -> C:\Users\Anton\source\repos\Abc\ConsoleApplication2\x64\Debug\ArrayTask1.exe
