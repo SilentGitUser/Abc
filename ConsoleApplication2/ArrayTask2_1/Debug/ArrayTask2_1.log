@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ArrayTask2.vcxproj, intTree.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ArrayTask2.cpp
+c:\users\anton\source\repos\abc\consoleapplication2\arraytask2_1\arraytask2.cpp(128): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ArrayTask2_1.vcxproj -> C:\Users\Anton\source\repos\Abc\ConsoleApplication2\Debug\intTreeTemp.exe
