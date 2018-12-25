@@ -1,8 +1,8 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ArrayTask1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   SortComp.cpp
-c:\users\anton\source\repos\abc\consoleapplication2\consoleapplication2\sortcomp.cpp(303): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\anton\source\repos\abc\consoleapplication2\consoleapplication2\sortcomp.cpp(335): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\anton\source\repos\abc\consoleapplication2\consoleapplication2\sortcomp.cpp(355): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\anton\source\repos\abc\consoleapplication2\consoleapplication2\sortcomp.cpp(375): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\anton\source\repos\abc\consoleapplication2\consoleapplication2\sortcomp.cpp(396): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\anton\source\repos\abc\consoleapplication2\consoleapplication2\sortcomp.cpp(305): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\anton\source\repos\abc\consoleapplication2\consoleapplication2\sortcomp.cpp(339): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\anton\source\repos\abc\consoleapplication2\consoleapplication2\sortcomp.cpp(359): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\anton\source\repos\abc\consoleapplication2\consoleapplication2\sortcomp.cpp(379): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\anton\source\repos\abc\consoleapplication2\consoleapplication2\sortcomp.cpp(400): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   ConsoleApplication2.vcxproj -> C:\Users\Anton\source\repos\Abc\ConsoleApplication2\Debug\sortComp.exe
