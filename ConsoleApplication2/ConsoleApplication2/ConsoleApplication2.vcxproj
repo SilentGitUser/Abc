@@ -152,10 +152,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Extreme.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="Quick.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Extreme.cpp" />
     <ClCompile Include="Quick.cpp" />
     <ClCompile Include="SortComp.cpp" />
     <ClCompile Include="pch.cpp">

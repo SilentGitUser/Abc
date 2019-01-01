@@ -1,0 +1,6 @@
+﻿  VectorTry514.cpp
+c:\users\anton\source\repos\abc\consoleapplication2\vectortry514\vectortry514.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\anton\source\repos\abc\consoleapplication2\vectortry514\vectortry514.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\anton\source\repos\abc\consoleapplication2\vectortry514\vectortry514.cpp(51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\anton\source\repos\abc\consoleapplication2\vectortry514\vectortry514.cpp(54): warning C4018: '<': signed/unsigned mismatch
+  VectorTry514.vcxproj -> C:\Users\Anton\source\repos\Abc\ConsoleApplication2\Debug\VectorTry514.exe

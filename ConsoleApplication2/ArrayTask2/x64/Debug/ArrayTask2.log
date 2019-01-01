@@ -1,4 +1,0 @@
-﻿  pch.cpp
-  ArrayTask2.cpp
-c:\users\anton\source\repos\abc\consoleapplication2\arraytask2\arraytask2.cpp(157): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  ArrayTask2.vcxproj -> C:\Users\Anton\source\repos\Abc\ConsoleApplication2\x64\Debug\intTree.exe

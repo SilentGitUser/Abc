@@ -4,3 +4,9 @@
 #include <ctime>
 #include <string>
 
+void foo(void)
+{
+
+
+
+}
